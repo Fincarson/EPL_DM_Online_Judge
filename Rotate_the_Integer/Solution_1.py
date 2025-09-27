@@ -1,6 +1,4 @@
-T = int(input())
-
-for t in range(T):
+for T in int(input()):
     x = int(input())
-    if(x >= 128): print(f"Case #{t+1}: {((x-128) << 1) +1}")
-    else: print(f"Case #{t+1}: {x << 1}")
+    if(x >= 128): print(f"Case #{T+1}: {((x-128) << 1) +1}")
+    else: print(f"Case #{T+1}: {x << 1}")

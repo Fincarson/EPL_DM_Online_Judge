@@ -1,0 +1,1 @@
+print(input() + " majors in " + input() + '.')
