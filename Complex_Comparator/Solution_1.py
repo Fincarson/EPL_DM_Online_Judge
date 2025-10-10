@@ -15,5 +15,5 @@ for T in range(int(input())):
     else: op = '!='
     
     num[0] = num[0][2:] if num[0][0] == '0' else "(" + num[0] + ")"
-    num[1] = num[0][2:] if num[1][0] == '0' else "(" + num[1] + ")"
+    num[1] = num[1][2:] if num[1][0] == '0' else "(" + num[1] + ")"
     print(f"Case #{T+1}: {num[0]} {op} {num[1]}")
