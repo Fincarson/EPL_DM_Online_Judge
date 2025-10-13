@@ -2,7 +2,7 @@
 [EPL DM::OJ Problem "Excel to Integer"](https://oj.epl.tw/problem/w06p004)
 
 ## Topics
-- For - loop
+- For-Loop
 - Chr
 - Ord
 - Positional Numeral System

@@ -5,5 +5,5 @@ Please note that you only have to submit the definition of the trisketch functio
 
 ## Topics
 - Function
-- For - Loop
+- For-Loop
 - String Repetition

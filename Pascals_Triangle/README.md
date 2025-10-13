@@ -3,5 +3,5 @@
 
 ## Topics
 - Recursion
-- For - Loop
-- Formatted - Output
+- For-Loop
+- Formatted-Output

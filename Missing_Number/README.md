@@ -4,7 +4,7 @@
 ## Topics
 - Sort
 - Loop
-- If - else
+- If-else
 
 ## References
 [LeetCode Problem 268 - Missing Number](https://leetcode.com/problems/missing-number)
