@@ -5,6 +5,3 @@
 - Recursion
 - For - Loop
 - Formatted - Output
-
-## References
-[LeetCode Problem 268 - Missing Number](https://leetcode.com/problems/missing-number)
