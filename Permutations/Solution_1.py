@@ -4,7 +4,7 @@ def permute(nums):
 
     result = []
     for i in range(len(nums)):
-        tmp = permute(nums[i+1:] + nums[:i])
+        tmp = permute(nums[:i] + nums[i+1:])
         for t in tmp: result.append([nums[i]] + t)
     return result
 
