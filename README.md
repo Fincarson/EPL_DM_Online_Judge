@@ -14,7 +14,7 @@ This section contains my full collection of solved problems, gathered in one pla
 <details close><summary><strong>NTHU Online Judge Problem Set</strong></summary>
 
 | Problems                                                             | Difficulty                                                              | Solutions            |
-|----------------------------------------------------------------------|:-----------------------------------------------------------------------:|:--------------==----:|
+|----------------------------------------------------------------------|:-----------------------------------------------------------------------:|:--------------------:|
 | [Week 1 - Hello World][w01p001]                                      | <img src="Miscellaneous/Badges/Easy.svg" height="20" align="absmiddle"> | [Solution][sw01p001] |
 | [Week 2 - What's Your Major?][w02p001]                               | <img src="Miscellaneous/Badges/Easy.svg" height="20" align="absmiddle"> | [Solution][sw02p001] |
 
